@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "path": "index.html",
+      "title": "Domů",
+      "navLabel": "Domů",
+      "homepage": true,
+      "pageType": "home"
+    },
+    {
+      "path": "sources.html",
+      "title": "Zdroje",
+      "navLabel": "Zdroje",
+      "homepage": false,
+      "pageType": "sources"
+    },
+    {
+      "path": "faq.html",
+      "title": "FAQ",
+      "navLabel": "FAQ",
+      "homepage": false,
+      "pageType": "faq"
+    },
+    {
+      "path": "contact.html",
+      "title": "Kontakt",
+      "navLabel": "Kontakt",
+      "homepage": false,
+      "pageType": "contact"
+    }
+  ],
+  "sharedAssets": [
+    "assets/styles.css"
+  ]
+}
