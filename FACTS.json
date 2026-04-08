@@ -1,0 +1,68 @@
+{
+  "subject": "novou sekci",
+  "sourceList": [
+    {
+      "url": "https://www.novoselic.com/",
+      "title": "Home - The Krist Novoselic Dedication Page",
+      "priority": "secondary",
+      "usedInFacts": false
+    },
+    {
+      "url": "https://www.factsnippet.com/site/facts-about-krist-novoselic.html",
+      "title": "63 Facts About Krist Novoselic | FactSnippet",
+      "priority": "secondary",
+      "usedInFacts": false
+    },
+    {
+      "url": "https://facts.net/celebrity/11-astonishing-facts-about-krist-novoselic/",
+      "title": "11 Astonishing Facts About Krist Novoselic - Facts.net",
+      "priority": "secondary",
+      "usedInFacts": false
+    }
+  ],
+  "verifiedFacts": [],
+  "factsWithConfidence": [],
+  "uncertainFacts": [
+    "Model nevrátil validní research JSON."
+  ],
+  "excludedFacts": [],
+  "sourceConflicts": [],
+  "contentAngles": [
+    "Konzervativní sumarizace bez neověřených detailů"
+  ],
+  "recommendedSections": [
+    "Co je potvrzeno",
+    "Zdroje"
+  ],
+  "researchPlan": {
+    "subject": "novou sekci",
+    "mainResearchQuestions": [],
+    "criticalInformation": [],
+    "niceToHaveInformation": [],
+    "prioritySourceTypes": [
+      "official",
+      "trusted"
+    ],
+    "riskAreas": [],
+    "timeRelevanceNotes": []
+  },
+  "sectionPlans": [],
+  "assetPlan": {
+    "hasLogoOpportunity": false,
+    "suggestedImages": [],
+    "colorScheme": "professional",
+    "visualStyle": "clean",
+    "iconPlacementSuggestions": []
+  },
+  "notes": [
+    "Subject: novou sekci",
+    "Task type: factual-info-page",
+    "Sources fetched: 3",
+    "Verified facts: 0",
+    "Facts with confidence scoring: 0",
+    "Source conflicts detected: 0",
+    "Excluded facts: 0",
+    "Low fact count: používej opatrný stručný výstup a přidej zdroje."
+  ],
+  "researchInsufficientWarning": "Warning: No high-confidence facts found. Use cautious, brief output or request user to clarify scope."
+}
